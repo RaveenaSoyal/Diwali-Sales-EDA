@@ -1,5 +1,3 @@
-# Diwali-Sales-EDA
-
 # Diwali Sales Analysis Project
 
 ## Overview
@@ -9,7 +7,8 @@ This project focuses on analyzing sales data during the Diwali festival period. 
 The dataset used for this analysis contains sales data from various stores and product categories during the Diwali period. It includes information such as sales figures, product categories, dates, and geographical locations. The dataset is sourced from multiple retail chains and is anonymized to protect sensitive information.
 
 ## Tools and Libraries Used
-- Python 3
+- Python
+- Numpy
 - Pandas
 - Matplotlib
 - Seaborn
