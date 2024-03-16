@@ -4,8 +4,7 @@
 This project focuses on analyzing sales data during the Diwali festival period. Diwali, also known as the Festival of Lights, is a significant festival celebrated in India and by Indian communities worldwide. During this time, there is usually a surge in shopping and sales across various sectors, including retail, electronics, and clothing. Understanding the trends and patterns in sales during Diwali can provide valuable insights for businesses to optimize their marketing strategies, inventory management, and sales forecasts.
 
 ## Dataset
-The dataset used for this analysis contains sales data from various stores and product categories during the Diwali period. It includes information such as sales figures, product categories, dates, and geographical locations. The dataset is sourced from multiple retail chains and is anonymized to protect sensitive information.
-
+The dataset used for this analysis contains sales data from various stores and product categories during the Diwali period. It includes information such as sales figures, product categories, dates, and geographical locations. The dataset is taken from kaggle platform.
 ## Tools and Libraries Used
 - Python
 - Numpy
